@@ -10,8 +10,8 @@
 
 ### 2. Learning Objectives
 - Study: Spaceflights affect on the Extracellular Matrix (ECM) and cytoskeleton across different age groups
-- Constraint: Max 10 lines of code per block. 
-- Requirement: Every code block must be preceded by a "Physics/Biology Logic" explanation.
+- Science: Spaceflight, cytoskeleton, and ECM contribution to immune dysregulation 
+- Coding: Every code block must be preceded by a "Physics/Biology Logic" explanation.
 
 ### 3. Progress Log (The handover for the next day)
 - Day 1: Found the dataset. Established that surface tension dominates over gravity.

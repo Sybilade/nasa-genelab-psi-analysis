@@ -1,4 +1,4 @@
-# NASA OSDR Analysis
+# NASA affiliated dataset analysis
 Group of jupyter coding projects using NASA GeneLab and Physical Science Informatics data
 ## Current Data Used and Objectives/Achievements:
 ### OSD-832: https://osdr.nasa.gov/bio/repo/data/studies/OSD-832
